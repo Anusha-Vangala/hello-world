@@ -1,4 +1,5 @@
 # hello-world
-starting my professional career
-Learning about DevOps makes my life interesting.
-I wish to settle as a DevOps Engineer.
+Starting my professional career
+Learning the collaboration between the developers and operators. 
+How the pipeline goes in CI-CD.
+Lot to learn about the VCS using GIT.
